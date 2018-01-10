@@ -1,11 +1,15 @@
 {
     "name": "irakicha/logger",
     "description": "my test logger",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "irakicha",
             "email": "irakicha@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "involvedpanda/comptrain": "dev-master",
+        "kirill/logger": "dev-master"
+    }
 }
