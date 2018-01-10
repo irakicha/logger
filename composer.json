@@ -1,0 +1,11 @@
+{
+    "name": "irakicha/logger",
+    "description": "my test logger",
+    "authors": [
+        {
+            "name": "irakicha",
+            "email": "irakicha@gmail.com"
+        }
+    ],
+    "require": {}
+}
