@@ -10,6 +10,7 @@
     ],
     "require": {
         "involvedpanda/comptrain": "dev-master",
-        "kirill/logger": "dev-master"
+        "kirill/logger": "dev-master",
+        "monolog/monolog": "^1.23"
     }
 }

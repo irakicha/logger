@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b54801c319322dea3aea5da6047da391",
-    "content-hash": "4774745789a935c62fc32b403a1e7595",
+    "hash": "22836daa620d113461713354edfd63ba",
+    "content-hash": "d19e78ef0bc4f7b77aa4199a2b7831a0",
     "packages": [
         {
             "name": "involvedpanda/comptrain",
